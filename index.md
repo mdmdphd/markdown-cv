@@ -18,26 +18,34 @@ Standing on the shoulders of giants
 ### Institutions attended
 
 `July 2023 to present`
-__EMS fellowship, University of Iowa__
+__EMS fellowship__
+- University of Iowa
 
 `July 2020 to June 2023`
-__Emergency medicine residency, University of Iowa__
+__Emergency medicine residency__
+- University of Iowa
 
 `June 2012 to May 2020`
-__MD, University of Minnesota Medical School, Minneapolis__
+__MD__
+- University of Minnesota Medical School, Minneapolis
 
 `September 2014 to May 2018`
-__PhD, Division of Epidemiology, University of Minnesota School of Public Health, Minneapolis__
+__PhD__
+- Division of Epidemiology
+- University of Minnesota School of Public Health, Minneapolis
 - “Yoga for Chronic Pain” | Erin Krebs, MD, MPH (thesis advisor)
 
 `June 2011 to June 2012`
-__M.S. Epidemology, University Pierre et Marie Curie, Paris, France__
+__M.S. Epidemology__
+- University Pierre et Marie Curie, Paris, France
 
 `May 2009 to May 2011`
-__M.S. Molecular and Cellular Biology, University Pierre et Marie Curie, Paris, France__
+__M.S. Molecular and Cellular Biology__
+- University Pierre et Marie Curie, Paris, France
 
 `May 2006 to December 2010`
-__B.Sc. Biochemistry, University of Washington, Seattle__
+__B.Sc. Biochemistry__
+- University of Washington, Seattle
 - with College Honors
 
 
