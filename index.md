@@ -7,7 +7,7 @@ EMS Physician, EM Physician, researcher.
 
 <div id="webaddress">
 <a href="melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="melvin.donaldson.md">melvin.donaldson.md</a>
 </div>
 
 
@@ -17,18 +17,28 @@ Standing on the shoulders of giants
 
 ### Institutions attended
 
-`1654-1660`
-__The King's School, Grantham.__
+`July 2023 to present`
+__EMS fellowship, University of Iowa__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`July 2020 to June 2023`
+__Emergency medicine residency, University of Iowa__
 
-- Sizar
+`June 2012 to May 2020`
+__MD, University of Minnesota Medical School, Minneapolis__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`September 2014 to May 2018`
+__PhD, Division of Epidemiology, University of Minnesota School of Public Health, Minneapolis__
+- “Yoga for Chronic Pain” | Erin Krebs, MD, MPH (thesis advisor)
 
-- Fellow
+`June 2011 to June 2012`
+__M.S. Epidemology, University Pierre et Marie Curie, Paris, France__
+
+`May 2009 to May 2011`
+__M.S. Molecular and Cellular Biology, University Pierre et Marie Curie, Paris, France__
+
+`May 2006 to December 2010`
+__B.Sc. Biochemistry, University of Washington, Seattle__
+- with College Honors
 
 
 ### Professional and academic positions held
