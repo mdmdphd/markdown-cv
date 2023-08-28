@@ -1,31 +1,21 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Melvin Donaldson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Melvin Donaldson
+EMS Physician, EM Physician, researcher.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## Currently
+## EDUCATIONAL AND PROFESSIONAL HISTORY
 
 Standing on the shoulders of giants
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
+### Institutions attended
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -41,51 +31,75 @@ __Trinity College, Cambridge__
 - Fellow
 
 
+### Professional and academic positions held
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
+### Honors, awards, recognitions
 
-## Publications
+These are a few of my favorite things
+
+## Teaching
+
+### Teaching assignments
+
+
+### Students supervised
+
+
+### Other contributions
+(Institutional conferences, grand rounds, journal clubs)
+(teaching committees)
+(counseling)
+(national education related presentations)
+(formal study to improve teaching abilities)
+(current research concerning teaching)
+(local and regional CME talks)
+
+
+## Scholarship and productivity
+
+### Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Areas of Research Interest and Current Projects
 
 
-## Occupation
+### Published reviews of scholarship
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+### Grants received
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+### Lectures and presentations
+Invited lectures
+Conference presentations
+Visiting Professorships
+
+
+### Pending decisions
+
+
+## Service
+
+### Memberships in Professional Organizations
+Offices held in professional organizations (least to most recent)
+(Editorships)
+(Review panels)
+(Departmental, collegiate, university and national committees)
+(Departmental, collegiate, university and national service positions)
+(Relevant community involvement)
+(Other) 
+
+
+### Clinical assignments since last promotion 
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
 
