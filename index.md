@@ -3,7 +3,7 @@ layout: cv
 title: Melvin Donaldson's CV
 ---
 # Melvin Donaldson
-EMS Physician, EM Physician, researcher.
+EMS Physician, EM Physician, researcher
 
 <div id="webaddress">
 <a href="melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
@@ -12,8 +12,6 @@ EMS Physician, EM Physician, researcher.
 
 
 ## EDUCATIONAL AND PROFESSIONAL HISTORY
-
-Standing on the shoulders of giants
 
 ### Institutions attended
 
@@ -49,14 +47,43 @@ __B.Sc. Biochemistry__
 - with College Honors
 
 
-### Professional and academic positions held
+<!-- ### Professional and academic positions held
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 
 ### Honors, awards, recognitions
 
-These are a few of my favorite things
+`2010`
+- B.Sc. awarded with College Honors, University of Washington
+
+`2011`
+- M.S. awarded with Highest Academic Honors, Université Pierre et Marie Curie
+
+`2012`
+- M.S. awarded with Highest Academic Honors, Université Pierre et Marie Curie
+
+`2013`
+- Benjamin H. Kean Travel Fellowship in Tropical Medicine, American Society of Tropical Medicine and Hygiene
+
+`2014`
+- School of Public Health Dean's Scholarship, University of Minnesota, School of Public Health
+- Most practical Quality Improvement project, Essentials of Clinical Medicine, University of Minnesota Medical School
+  
+`2015`
+- Professional Development Funding Award, University of Minnesota School of Public Health Student Senate
+
+`2016`
+-Pain Science in Motion Conference Travel Award, International Association for the Study of Pain
+
+`2017`
+- Excellent Young Investigator, Academic Consortium for Integrative Medicine and Health
+
+`2018`
+-Gold Humanism Honor Society, University of Minnesota
+
+`2020`
+- Professional Development Funding Award, University of Minnesota School of Public Health Student Senate
 
 ## Teaching
 
@@ -102,7 +129,11 @@ These are a few of my favorite things
 
 
 ### Grants received
-
+`04/01/16 to 03/31/21`
+- F30 AT009162-01, National Center for Complementary and Alternative Medicine (NCCAM)
+- __Donaldson, Melvin T (PI)__
+- Yoga for Chronic Pain in Veterans
+- Role: PI
 
 ### Lectures and presentations
 
@@ -118,8 +149,8 @@ These are a few of my favorite things
 - Donaldson MT, Polusny MA, Maclehose RF, Goldsmith ES, Miron LR, Thuras PD, Krebs EE. The Health Practices Inventory: Patterns and correlates of conventional and complementary non-pharmacological health practice use among US military veterans. International Congress on Integrative Medicine and Health. 2018 May; Baltimore, MD, United States.
 - Donaldson MT, Polusny MA, Maclehose RF, Goldsmith ES, Miron LR, Hagel Campbell EM, Thuras PD, Krebs EE. The Health Practices Inventory: Patterns and correlates of conventional and complementary non-pharmacological health practice use among US military veterans. Robert P. Hebbel Department of Medicine Research Day. 2018 May; Minneapolis, MN, United States.
 - Donaldson MT, Krebs EE, Polusny MA. Yoga for Chronic Pain in Veterans. Pain Science in Motion. 2017 March; Stockholm, Sweden.
-- Sattuer C, Opoka RO, Donaldson M, Park G, John CC. Children with severe malarial anemia and sickle cell disease have decreased parasite biomass and inflammation but increased angiopoietin-2 levels compared to children without sickle cell disease. American Society for Tropical Medicine and Hygiene Annual Meeting; 2015 October; Philadelphia, PA. c00.
 - Donaldson MT, Krebs EE, Polusny MA. Yoga for chronic pain among veterans. Minnesota Chapter American College of Physicians; 2015 November; Minneapolis, MN. C00
+- Sattuer C, Opoka RO, Donaldson M, Park G, John CC. Children with severe malarial anemia and sickle cell disease have decreased parasite biomass and inflammation but increased angiopoietin-2 levels compared to children without sickle cell disease. American Society for Tropical Medicine and Hygiene Annual Meeting; 2015 October; Philadelphia, PA. c00.
 - Welikson R, Donaldson M, Stevens K, Hauschka S. Human muscle creatine kinase and CSX-1 regulatory cassettes direct tissue specific gene expression activity in ES-derived human cardiomyocytes. Institute for Stem Cell and Regenerative Medicine Stem Cell Retreat. 2009 November; Seattle, Wash, USA.
 - Donaldson M, Welikson R, Hauschka S. Design and optimization of mouse and human chimaeric regulatory gene cassettes for human muscular dystrophy gene therapies. University of Washington Undergraduate Research Symposium. 2009 May; Seattle, Wash, USA.
 - Donaldson M, Hauschka S. Design and construction of regulatory gene cassettes for muscle-specific gene expression and the treatment of muscular dystrophies. University of Washington Undergraduate Research Symposium; 2008 May; Seattle, Wash, USA. c2008.
@@ -138,7 +169,7 @@ These are a few of my favorite things
 ### Memberships in Professional Organizations
 
 - NAEMSP, member `2023`
-- Society for Academic Emergency Medicine, editor
+- Society for Academic Emergency Medicine, reviewer `2023`
 <!--
 (Review panels)
 (Departmental, collegiate, university and national committees)
