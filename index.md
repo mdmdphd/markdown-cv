@@ -54,7 +54,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 ### Honors, awards, recognitions
 
-- B.Sc. awarded with College Honors, University of Washington `2010` 
+- `2010` B.Sc. awarded with College Honors, University of Washington
 
 - M.S. awarded with Highest Academic Honors, Université Pierre et Marie Curie `2011`
 
