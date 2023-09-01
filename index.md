@@ -63,6 +63,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples. -->
 - Benjamin H. Kean Travel Fellowship in Tropical Medicine, American Society of Tropical Medicine and Hygiene `2013`
 
 - School of Public Health Dean's Scholarship, University of Minnesota, School of Public Health `2014`
+
 - Most practical Quality Improvement project, Essentials of Clinical Medicine, University of Minnesota Medical School
   
 - Professional Development Funding Award, University of Minnesota School of Public Health Student Senate `2015`
