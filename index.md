@@ -64,7 +64,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 - School of Public Health Dean's Scholarship, University of Minnesota, School of Public Health `2014`
 
-- Most practical Quality Improvement project, Essentials of Clinical Medicine, University of Minnesota Medical School
+- Most practical Quality Improvement project, Essentials of Clinical Medicine, University of Minnesota Medical School `2014`
   
 - Professional Development Funding Award, University of Minnesota School of Public Health Student Senate `2015`
 
