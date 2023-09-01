@@ -54,36 +54,26 @@ Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 ### Honors, awards, recognitions
 
-`2010`
-- B.Sc. awarded with College Honors, University of Washington
+`2010` - B.Sc. awarded with College Honors, University of Washington
 
-`2011`
-- M.S. awarded with Highest Academic Honors, Université Pierre et Marie Curie
+`2011` - M.S. awarded with Highest Academic Honors, Université Pierre et Marie Curie
 
-`2012`
-- M.S. awarded with Highest Academic Honors, Université Pierre et Marie Curie
+`2012` - M.S. awarded with Highest Academic Honors, Université Pierre et Marie Curie
 
-`2013`
-- Benjamin H. Kean Travel Fellowship in Tropical Medicine, American Society of Tropical Medicine and Hygiene
+`2013` - Benjamin H. Kean Travel Fellowship in Tropical Medicine, American Society of Tropical Medicine and Hygiene
 
-`2014`
-- School of Public Health Dean's Scholarship, University of Minnesota, School of Public Health
+`2014` - School of Public Health Dean's Scholarship, University of Minnesota, School of Public Health
 - Most practical Quality Improvement project, Essentials of Clinical Medicine, University of Minnesota Medical School
   
-`2015`
-- Professional Development Funding Award, University of Minnesota School of Public Health Student Senate
+`2015` - Professional Development Funding Award, University of Minnesota School of Public Health Student Senate
 
-`2016`
-- Pain Science in Motion Conference Travel Award, International Association for the Study of Pain
+`2016` - Pain Science in Motion Conference Travel Award, International Association for the Study of Pain
 
-`2017`
-- Excellent Young Investigator, Academic Consortium for Integrative Medicine and Health
+`2017` - Excellent Young Investigator, Academic Consortium for Integrative Medicine and Health
 
-`2018`
--Gold Humanism Honor Society, University of Minnesota
+`2018` -Gold Humanism Honor Society, University of Minnesota
 
-`2020`
-- Professional Development Funding Award, University of Minnesota School of Public Health Student Senate
+`2020` - Professional Development Funding Award, University of Minnesota School of Public Health Student Senate
 
 ## Teaching
 
