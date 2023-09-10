@@ -4,7 +4,7 @@ title: Melvin Donaldson's CV
 ---
 # Melvin Donaldson
 EMS Physician, EM Physician, researcher.
-{{ "now" | date: "%m-%d-%Y" }}
+{{ site.time | date: "%m-%d-%Y" }}
 
 <div id="webaddress">
 <a href="melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
