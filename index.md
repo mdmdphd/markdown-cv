@@ -4,6 +4,7 @@ title: Melvin Donaldson's CV
 ---
 # Melvin Donaldson
 EMS Physician, EM Physician, researcher.
+{{ "now" | date: "%m-%d-%Y" }}
 
 <div id="webaddress">
 <a href="melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
@@ -51,7 +52,7 @@ __B.Sc. Biochemistry__
 ### Professional and academic positions held
 
 `July 2023 to Present`
-__Visiting Instructor__, supervising emergency medicine physician
+__Visiting Instructor__
 - Department of Emergency Medicine
 - University of Iowa Hospitals and Clinics
 - Iowa City, IA
@@ -105,8 +106,10 @@ A list is also available [online](https://scholar.google.com/citations?user=YhxV
 
 ### Areas of Research Interest and Current Projects
 
+- Out of hospital pain management
+- Mitigating stress reaction to traumatic injury through pain management
 
-### Published reviews of scholarship
+<!--### Published reviews of scholarship-->
 
 
 ### Grants received
@@ -118,7 +121,7 @@ Conference presentations
 Visiting Professorships
 
 
-### Pending decisions
+<!--### Pending decisions-->
 
 
 ## Service
