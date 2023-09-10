@@ -13,7 +13,6 @@ EMS Physician, EM Physician, researcher.
 
 ## EDUCATIONAL AND PROFESSIONAL HISTORY
 
-Standing on the shoulders of giants
 
 ### Institutions attended
 
@@ -33,7 +32,7 @@ __MD__
 __PhD__
 - Division of Epidemiology
 - University of Minnesota School of Public Health, Minneapolis
-- “Yoga for Chronic Pain” | Erin Krebs, MD, MPH (thesis advisor)
+- “Yoga for Chronic Pain” Erin Krebs, MD, MPH (thesis advisor)
 
 `June 2011 to June 2012`
 __M.S. Epidemology__
@@ -51,14 +50,24 @@ __B.Sc. Biochemistry__
 
 ### Professional and academic positions held
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`July 2023 to Present`
+__Visiting Instructor__, supervising emergency medicine physician
+- Department of Emergency Medicine
+- University of Iowa Hospitals and Clinics
+- Iowa City, IA
+
+`July 2023 to Present`
+__Staff Physician__
+- Emergency Medicine
+- Washington County Hospitals and Clinics
+- Washington, IA
 
 
 ### Honors, awards, recognitions
 
 These are a few of my favorite things
 
-## Teaching
+<!--## Teaching
 
 ### Teaching assignments
 
@@ -74,13 +83,13 @@ These are a few of my favorite things
 (formal study to improve teaching abilities)
 (current research concerning teaching)
 (local and regional CME talks)
-
+-->
 
 ## Scholarship and productivity
 
 ### Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.com/citations?user=YhxVpikAAAAJ)
 
 - Donaldson MT, Neumark-Sztainer D, Gaugler JE, Groessl EJ, Kehle-Forbes SM, Polusny MA, Krebs EE. Yoga Practice Among Veterans With and Without Chronic Pain: A Mixed Methods Study. Med Care. 2020 Sep;58 Suppl 2 9S:S133-S141. doi: 10.1097/MLR.0000000000001331. PubMed PMID: 32826783; PubMed Central PMCID: PMC7444464.
 - Goldsmith ES, MacLehose RF, Jensen AC, Clothier B, NoorbaDonaldson MT, Neumark-Sztainer D, Gaugler JE, Groessl EJ, Kehle-Forbes SM, Polusny MA, Krebs EE. Yoga Practice Among Veterans With and Without Chronic Pain: A Mixed Methods Study. Med Care. 2020 Sep;58 Suppl 2 9S:S133-S141. doi: 10.1097/MLR.0000000000001331. PubMed PMID: 32826783; PubMed Central PMCID: PMC7444464.
