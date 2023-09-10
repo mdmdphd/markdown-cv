@@ -23,7 +23,8 @@ __EMS fellowship__
 - University of Iowa
 
 `December 2023`
-- Iowa State Medical license __MD-50749__
+- Iowa State Medical license
+- __MD-50749__
   
 `July 2020 to June 2023`
 __Emergency medicine residency__
