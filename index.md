@@ -19,11 +19,11 @@ EMS Physician, EM Physician, researcher
 ### Institutions attended
 
 `July 2023 to present`
-- __EMS fellowship__
+__EMS fellowship__
 - University of Iowa
 
 `December 2023`
-- Iowa State Medical license
+Iowa State Medical license
 - __MD-50749__
   
 `July 2020 to June 2023`
