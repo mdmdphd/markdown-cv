@@ -5,7 +5,6 @@ title: Melvin Donaldson's CV
 # Melvin Donaldson
 EMS Physician, EM Physician, researcher
 
-{{ site.time | date: "%c" }}
 {{ site.time | date: "%B %d, %YYYY" }}
 
 <div id="webaddress">
