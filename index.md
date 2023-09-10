@@ -70,6 +70,12 @@ __Staff Physician__
 - Washington County Hospitals and Clinics
 - Washington, IA
 
+`May 2023 to June 2023`
+__Staff Physician__
+- Emergency Medicine
+- Jones Regional Medical Center
+- Anamosa, IA
+
 
 ### Honors, awards, recognitions
 
@@ -162,7 +168,12 @@ conference.
 - `2023` Annals of Emergency Medicine, reviewer
 <!--(Editorships)
 (Review panels)
-(Departmental, collegiate, university and national committees)
+(Departmental, collegiate, university and national committees) -->
+- `July 2022 to June 2023`
+- Chief resident for wellness
+- University of Iowa Emergency Medicine Residency
+
+<!--
 (Departmental, collegiate, university and national service positions)
 (Relevant community involvement)
 (Other) -->
