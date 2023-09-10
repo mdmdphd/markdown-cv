@@ -19,7 +19,7 @@ EMS Physician, EM Physician, researcher
 ### Institutions attended
 
 `July 2023 to present`
-__EMS fellowship__
+- __EMS fellowship__
 - University of Iowa
 
 `December 2023`
