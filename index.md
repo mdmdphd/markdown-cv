@@ -169,6 +169,8 @@ conference.
 <!--(Editorships)
 (Review panels)
 (Departmental, collegiate, university and national committees) -->
+
+### Leadership
 - `July 2022 to June 2023`
 - Chief resident for wellness
 - University of Iowa Emergency Medicine Residency
