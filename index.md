@@ -160,8 +160,8 @@ conference.
 ### Memberships in Professional Organizations
 <!--Offices held in professional organizations (least to most recent)-->
 - `2023` Annals of Emergency Medicine, reviewer
-(Editorships)
-<!--(Review panels)
+<!--(Editorships)
+(Review panels)
 (Departmental, collegiate, university and national committees)
 (Departmental, collegiate, university and national service positions)
 (Relevant community involvement)
