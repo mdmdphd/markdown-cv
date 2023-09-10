@@ -6,6 +6,7 @@ title: Melvin Donaldson's CV
 EMS Physician, EM Physician, researcher
 
 {{ site.time | date: "%c" }}
+{{ site.time | date: "%B %d, %YYYY" }}
 
 <div id="webaddress">
 <a href="melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
