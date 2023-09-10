@@ -71,9 +71,7 @@ These are a few of my favorite things
 
 ### Teaching assignments
 
-
 ### Students supervised
-
 
 ### Other contributions
 (Institutional conferences, grand rounds, journal clubs)
@@ -84,6 +82,7 @@ These are a few of my favorite things
 (current research concerning teaching)
 (local and regional CME talks)
 -->
+
 
 ## Scholarship and productivity
 
@@ -140,5 +139,5 @@ Offices held in professional organizations (least to most recent)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 10, 2023 -->
 
