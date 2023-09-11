@@ -176,6 +176,7 @@ Advanced Life Saving, Advanced EM Elective, University of Iowa
 ### Memberships in Professional Organizations
 <!--Offices held in professional organizations (least to most recent)-->
 - `2023` Annals of Emergency Medicine, reviewer
+- `2023` National Association of EMS Physicians
 <!--(Editorships)
 (Review panels)
 (Departmental, collegiate, university and national committees) -->
