@@ -117,7 +117,7 @@ Tropical Medicine and Hygiene
 
 ### Publications
 
-_A list is also available [online]_(https://scholar.google.com/citations?user=YhxVpikAAAAJ)
+_A list is also available [online](https://scholar.google.com/citations?user=YhxVpikAAAAJ)_
 
 - __Donaldson MT__, Neumark-Sztainer D, Gaugler JE, Groessl EJ, Kehle-Forbes SM, Polusny MA, Krebs EE. Yoga Practice Among Veterans With and Without Chronic Pain: A Mixed Methods Study. Med Care. 2020 Sep;58 Suppl 2 9S:S133-S141. doi: 10.1097/MLR.0000000000001331. PubMed PMID: 32826783; PubMed Central PMCID: PMC7444464.
 - __Donaldson MT__, Neumark-Sztainer D, Gaugler JE, Groessl EJ, Kehle-Forbes SM, Polusny MA, Krebs EE. Yoga Practice Among Veterans With and Without Chronic Pain: A Mixed Methods Study. Med Care. 2020 Sep;58 Suppl 2 9S:S133-S141. doi: 10.1097/MLR.0000000000001331. PubMed PMID: 32826783; PubMed Central PMCID: PMC7444464.
