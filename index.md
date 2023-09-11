@@ -99,12 +99,12 @@ Tropical Medicine and Hygiene
 - `2011` M.S. awarded with Highest Academic Honors, Université Pierre et Marie Curie
 - `2010` B.Sc. awarded with College Honors, University of Washington
 
-<!--## Teaching
-
+<!--
+## Teaching
 ### Teaching assignments
-
 ### Students supervised
 -->
+
 ### Other contributions
 - `10/20/2021` UIHC Ethics Grand Rounds: “Who Decides”
 <!--(Institutional conferences, grand rounds, journal clubs)-->
@@ -177,6 +177,7 @@ Advanced Life Saving, Advanced EM Elective, University of Iowa
 <!--Offices held in professional organizations (least to most recent)-->
 - `2023` Annals of Emergency Medicine, reviewer
 - `2023` National Association of EMS Physicians
+
 <!--(Editorships)
 (Review panels)
 (Departmental, collegiate, university and national committees) -->
@@ -189,7 +190,8 @@ Advanced Life Saving, Advanced EM Elective, University of Iowa
 <!--
 (Departmental, collegiate, university and national service positions)
 (Relevant community involvement)
-(Other) -->
+(Other) 
+-->
 
 
 <!--### Clinical assignments since last promotion -->
