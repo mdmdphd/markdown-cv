@@ -8,11 +8,13 @@ EMS Physician, EM Physician, researcher
 {{ site.time | date: "%B %Y" }}
 
 <div id="webaddress">
+816 Talwrn Ct, Iowa City, IA 52246
+</div>
+
+<div id="webaddress">
 <a href="mailto:melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
 | <a href="melvin.donaldson.md">melvin.donaldson.md</a>
-<p>
-816 Talwrn Ct, Iowa City, IA 52246
-</p></div>
+</div>
 
 
 ## EDUCATIONAL AND PROFESSIONAL HISTORY
