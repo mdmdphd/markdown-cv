@@ -91,7 +91,7 @@ Public Health Student Senate
 Public Health Student Senate
 - `2014` Most practical Quality Improvement project, Essentials of Clinical Medicine,
 University of Minnesota Medical School 
-- School of Public Health Dean's Scholarship, University of Minnesota, School of
+- `2014` School of Public Health Dean's Scholarship, University of Minnesota, School of
 Public Health
 - `2013` Benjamin H. Kean Travel Fellowship in Tropical Medicine, American Society of
 Tropical Medicine and Hygiene
