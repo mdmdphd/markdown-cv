@@ -158,7 +158,7 @@ Advanced Life Saving, Advanced EM Elective, University of Iowa
 Advanced EM Elective, University of Iowa
 - `3/18/2021` Sickle Cell Disease.
 University of Iowa EM Resident weekly conference.
-- **Donaldson MT**, Sury M. Meaning from distress: A reflective practice to inform suicide prevention among medical trainees. Academic Consortium for Integrative Medicine & Health, 2019 Consortium Members Meeting. 2019 April; Edmonton, AB, Canada.
+- **Donaldson MT**, Sury M. Meaning from distress: A reflective practice to inform suicide prevention among medical trainees. Academic Consortium for Integrative Medicine & Health, 2019 Consortium Members Meeting. `2019 April`; Edmonton, AB, Canada.
 - **Donaldson MT**, Polusny MA, Maclehose RF, Goldsmith ES, Miron LR, Thuras PD, Krebs EE. The Health Practices Inventory: Patterns and correlates of conventional and complementary non-pharmacological health practice use among US military veterans. International Congress on Integrative Medicine and Health. 2018 May; Baltimore, MD, United States.
 - **Donaldson MT**, Polusny MA, Maclehose RF, Goldsmith ES, Miron LR, Hagel Campbell EM, Thuras PD, Krebs EE. The Health Practices Inventory: Patterns and correlates of conventional and complementary non-pharmacological health practice use among US military veterans. Robert P. Hebbel Department of Medicine Research Day. 2018 May; Minneapolis, MN, United States.
 - **Donaldson MT**, Krebs EE, Polusny MA. Yoga for Chronic Pain in Veterans. Pain Science in Motion. 2017 March; Stockholm, Sweden.
