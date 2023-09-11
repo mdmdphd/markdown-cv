@@ -60,7 +60,7 @@ __B.Sc. Biochemistry__
 - with College Honors
 
 
-### Professional and academic positions held
+### Professional and academic positions
 
 `July 2023 to Present`
 __Visiting Instructor__
