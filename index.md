@@ -148,15 +148,29 @@ A list is also available [online](https://scholar.google.com/citations?user=YhxV
 - Role: PI
 
 ### Lectures and presentations
-- `9/6/2023` Ground ambulance safety. AirCare Safety Day. University of Iowa Hospitals and Clinics
-- `7/6/2023` In flight medical emergencies. Advanced Life Saving, Advanced EM Elective, University of Iowa
-- `7/13/2022` Toxic Alcohols. Advanced Life Saving, Advanced EM Elective,
-University of Iowa
+- `9/6/2023` Ground ambulance safety.
+AirCare Safety Day. University of Iowa Hospitals and Clinics
+- `7/6/2023` In flight medical emergencies.
+Advanced Life Saving, Advanced EM Elective, University of Iowa
+- `7/13/2022` Toxic Alcohols.
+Advanced Life Saving, Advanced EM Elective, University of Iowa
 - `7/5/2022` Effectiveness in the Emergency Department. Advanced Life Saving,
 Advanced EM Elective, University of Iowa
-- `3/18/2021` Sickle Cell Disease. University of Iowa EM Resident weekly
-conference.
-
+- `3/18/2021` Sickle Cell Disease.
+University of Iowa EM Resident weekly conference.
+- **Donaldson MT**, Sury M. Meaning from distress: A reflective practice to inform suicide prevention among medical trainees. Academic Consortium for Integrative Medicine & Health, 2019 Consortium Members Meeting. 2019 April; Edmonton, AB, Canada.
+- **Donaldson MT**, Polusny MA, Maclehose RF, Goldsmith ES, Miron LR, Thuras PD, Krebs EE. The Health Practices Inventory: Patterns and correlates of conventional and complementary non-pharmacological health practice use among US military veterans. International Congress on Integrative Medicine and Health. 2018 May; Baltimore, MD, United States.
+- **Donaldson MT**, Polusny MA, Maclehose RF, Goldsmith ES, Miron LR, Hagel Campbell EM, Thuras PD, Krebs EE. The Health Practices Inventory: Patterns and correlates of conventional and complementary non-pharmacological health practice use among US military veterans. Robert P. Hebbel Department of Medicine Research Day. 2018 May; Minneapolis, MN, United States.
+- **Donaldson MT**, Krebs EE, Polusny MA. Yoga for Chronic Pain in Veterans. Pain Science in Motion. 2017 March; Stockholm, Sweden.
+- Sattuer C, Opoka RO, **Donaldson M**, Park G, John CC. Children with severe malarial anemia and sickle cell disease have decreased parasite biomass and inflammation but increased angiopoietin-2 levels compared to children without sickle cell disease. American Society for Tropical Medicine and Hygiene Annual Meeting; 2015 October; Philadelphia, PA. c00.
+- **Donaldson MT**, Krebs EE, Polusny MA. Yoga for chronic pain among veterans. Minnesota Chapter American College of Physicians; 2015 November; Minneapolis, MN. C00
+- Welikson R, **Donaldson M**, Stevens K, Hauschka S. Human muscle creatine kinase and CSX-1 regulatory cassettes direct tissue specific gene expression activity in ES-derived human cardiomyocytes. Institute for Stem Cell and Regenerative Medicine Stem Cell Retreat. 2009 November; Seattle, Wash, USA.
+- **Donaldson M**, Welikson R, Hauschka S. Design and optimization of mouse and human chimaeric regulatory gene cassettes for human muscular dystrophy gene therapies. University of Washington Undergraduate Research Symposium. 2009 May; Seattle, Wash, USA.
+**Donaldson M**, Hauschka S. Design and construction of regulatory gene cassettes for muscle-specific gene expression and the treatment of muscular dystrophies. University of Washington Undergraduate Research Symposium; 2008 May; Seattle, Wash, USA. c2008.
+Putkonen J, Rosales M, **Donaldson M**. Direct quantification of current sediment transport on moraine surfaces in Cascade Mountains, WA, USA. Geological Society of America Annual Meeting. 2007 October; Denver, Colo, USA.
+**Donaldson M**, Putkonen J. Landscape evolution in the McMurdo Dry Valleys, Antarctica. National Conference on Undergraduate Research. 2007 April; San Rafael, Calif.
+Putkonen J, Rosales M, Turpen N, Morgan D, **Donaldson M**. Regolith transport in the dry valleys of Antarctica. International Symposium on Antarctic Earth Sciences; 2007; Santa Barbara, Calif. c2007.
+**Donaldson M**, Putkonen J. Landscape evolution in the McMurdo Dry Valleys, Antarctica. University of Washington Undergraduate Research Symposium; 2007 May; Seattle, WA, USA. c2007.
 
 <!--### Pending decisions-->
 
