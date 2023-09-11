@@ -79,6 +79,7 @@ __Staff Physician__
 
 ### Honors, awards, recognitions
 
+- `2022 to 2023` Mini fellowship in wellness leadership. Council of Residency Directors in Emergency Medicine.
 - `2020` Gold Humanism Honor Society, University of Minnesota
 - `2018` Excellent Young Investigator, Academic Consortium for Integrative Medicine and
 Health
@@ -152,12 +153,7 @@ A list is also available [online](https://scholar.google.com/citations?user=YhxV
 AirCare Safety Day. University of Iowa Hospitals and Clinics
 - `7/6/2023` In flight medical emergencies.
 Advanced Life Saving, Advanced EM Elective, University of Iowa
-- `7/13/2022` Toxic Alcohols.
-Advanced Life Saving, Advanced EM Elective, University of Iowa
-- `7/5/2022` Effectiveness in the Emergency Department. Advanced Life Saving,
-Advanced EM Elective, University of Iowa
-- `3/18/2021` Sickle Cell Disease.
-University of Iowa EM Resident weekly conference.
+- **Donaldson MT**, Bell GR. Perceived belongingness to guide wellness interventions. CORD Academic Assembly 2023. `2023 March`; Las Vegas, USA.
 - **Donaldson MT**, Sury M. Meaning from distress: A reflective practice to inform suicide prevention among medical trainees. Academic Consortium for Integrative Medicine & Health, 2019 Consortium Members Meeting. `2019 April`; Edmonton, AB, Canada.
 - **Donaldson MT**, Polusny MA, Maclehose RF, Goldsmith ES, Miron LR, Thuras PD, Krebs EE. The Health Practices Inventory: Patterns and correlates of conventional and complementary non-pharmacological health practice use among US military veterans. International Congress on Integrative Medicine and Health. 2018 May; Baltimore, MD, United States.
 - **Donaldson MT**, Polusny MA, Maclehose RF, Goldsmith ES, Miron LR, Hagel Campbell EM, Thuras PD, Krebs EE. The Health Practices Inventory: Patterns and correlates of conventional and complementary non-pharmacological health practice use among US military veterans. Robert P. Hebbel Department of Medicine Research Day. 2018 May; Minneapolis, MN, United States.
