@@ -164,9 +164,9 @@ Advanced Life Saving, Advanced EM Elective, University of Iowa
 - **Donaldson M**, Welikson R, Hauschka S. Design and optimization of mouse and human chimaeric regulatory gene cassettes for human muscular dystrophy gene therapies. University of Washington Undergraduate Research Symposium. `2009 May`; Seattle, Wash, USA.
 - **Donaldson M**, Hauschka S. Design and construction of regulatory gene cassettes for muscle-specific gene expression and the treatment of muscular dystrophies. University of Washington Undergraduate Research Symposium; `2008 May`; Seattle, Wash, USA. c2008.
 - Putkonen J, Rosales M, **Donaldson M**. Direct quantification of current sediment transport on moraine surfaces in Cascade Mountains, WA, USA. Geological Society of America Annual Meeting. `2007 October`; Denver, Colo, USA.
-- **Donaldson M**, Putkonen J. Landscape evolution in the McMurdo Dry Valleys, Antarctica. National Conference on Undergraduate Research. `2007 April`; San Rafael, Calif.
 - Putkonen J, Rosales M, Turpen N, Morgan D, **Donaldson M**. Regolith transport in the dry valleys of Antarctica. International Symposium on Antarctic Earth Sciences; `2007 August`; Santa Barbara, Calif. c2007.
 - **Donaldson M**, Putkonen J. Landscape evolution in the McMurdo Dry Valleys, Antarctica. University of Washington Undergraduate Research Symposium; `2007 May`; Seattle, WA, USA. c2007.
+- **Donaldson M**, Putkonen J. Landscape evolution in the McMurdo Dry Valleys, Antarctica. National Conference on Undergraduate Research. `2007 April`; San Rafael, Calif.
 
 <!--### Pending decisions-->
 
