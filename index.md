@@ -16,13 +16,15 @@ EMS Physician, EM Physician, researcher.
 
 ### Institutions attended
 
-`July 2023 to present`
+`July 2023 to June 2024`
 __EMS fellowship__
 - University of Iowa
+- Board eligible
 
 `July 2020 to June 2023`
 __Emergency medicine residency__
 - University of Iowa
+- Board certified
 
 `June 2012 to May 2020`
 __MD__
@@ -50,7 +52,14 @@ __B.Sc. Biochemistry__
 
 ### Professional and academic positions held
 
-`July 2023 to Present`
+`July 2024 to Present`
+__Clinical Assistant Professor__
+- Emergency Medicine and Emergency Medical Services
+- Core faculty emergency medical services fellowship
+- University of Iowa Health Care
+- Iowa City, IA
+
+`July 2023 to June 2024`
 __Visiting Instructor__, supervising emergency medicine physician
 - Department of Emergency Medicine
 - University of Iowa Hospitals and Clinics
